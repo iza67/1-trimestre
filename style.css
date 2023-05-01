@@ -17,3 +17,23 @@ header{
     margin: 0 16px;
     font-size: 24px;
 }
+
+.sobremim-imagem{
+    width: 20%;
+}
+
+.sobremim{
+    background-image: linear-gradient(#383D58, #4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.sobremim-div-conteudo{
+    width: 40%;
+}
+.sobremim-título{
+    padding: 24px 0;
+}
